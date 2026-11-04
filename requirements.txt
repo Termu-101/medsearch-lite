@@ -1,0 +1,30 @@
+# --- Data collection ---
+biopython
+datasets
+
+# --- Embeddings / NLP ---
+sentence-transformers
+transformers
+torch
+scispacy
+spacy
+
+# --- Retrieval ---
+chromadb
+rank-bm25
+
+# --- LLM providers ---
+anthropic
+groq
+
+# --- Tracing / eval ---
+langsmith
+
+# --- Frontend ---
+streamlit
+
+# --- Utilities ---
+python-dotenv
+pandas
+numpy
+tqdm

@@ -1,0 +1,33 @@
+{
+  "1_naive_minilm": {
+    "recall@5": 0.9,
+    "mrr": 0.85,
+    "n": 10
+  },
+  "2_biomedbert_only": {
+    "recall@5": 0.8,
+    "mrr": 0.7333333333333333,
+    "n": 10
+  },
+  "3_plus_bm25": {
+    "recall@5": 0.8,
+    "mrr": 0.7,
+    "n": 10
+  },
+  "4_plus_entity_rerank": {
+    "recall@5": 0.9,
+    "mrr": 0.85,
+    "n": 10
+  },
+  "5_plus_hyde": {
+    "recall@5": 0.9,
+    "mrr": 0.82,
+    "n": 10
+  },
+  "6_full_pipeline": {
+    "faithfulness": 0.9444444444444444,
+    "answer_relevance": 1.0,
+    "hallucination_rate": 0.05555555555555558,
+    "refusal_rate": 0.1
+  }
+}

@@ -1,0 +1,176 @@
+[
+  {
+    "question": "Does treatment with the NLRP3 inflammasome inhibitor MCC950 improve glycemic control, lipid profiles, and sympathetic dysfunction in a streptozotocin‑induced type 1 diabetic rat model?",
+    "reference_answer": "Yes—MCC950 significantly lowered fasting blood glucose, total cholesterol, triglycerides, and LDL‑cholesterol, partially restored C‑peptide and pancreatic histology, and reduced serum noradrenaline levels in diabetic rats compared with untreated controls.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42669910"
+  },
+  {
+    "question": "Does sesamin improve diabetic wound healing, and if so, through what cellular mechanism does it act?",
+    "reference_answer": "Sesamin accelerates healing of diabetic wounds by activating the Sirt1/Keap1/Nrf2 signaling axis, which suppresses ferroptosis, reduces ROS, and increases GPX4 expression.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42671318"
+  },
+  {
+    "question": "Does the ethanolic leaf extract of Nyctanthes arbor‑tristis reduce blood glucose levels and improve glucose tolerance in STZ‑induced diabetic rats?",
+    "reference_answer": "Yes; treatment with 100–300 mg/kg of the extract for 21 days significantly lowered fasting blood glucose, improved oral glucose tolerance, restored body weight, and improved lipid profiles in STZ‑induced diabetic rats.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42658420"
+  },
+  {
+    "question": "What is the role of classical protein tyrosine phosphatases in the development and progression of diabetic kidney disease?",
+    "reference_answer": "Classical protein tyrosine phosphatases regulate key signaling pathways in podocytes, endothelial cells, tubular cells, and immune cells; their dysregulation contributes to insulin resistance, cellular injury, inflammation, fibrosis, and cell death in diabetic kidney disease, making them attractive targets for novel therapeutics.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42687181"
+  },
+  {
+    "question": "Does empagliflozin reduce AGE‑BSA/high‑glucose‑induced inflammatory injury in C2C12 skeletal muscle cells by inhibiting the RAGE/NF‑κB signaling pathway?",
+    "reference_answer": "Yes; empagliflozin improves cell viability and lowers RAGE expression, NF‑κB phosphorylation, and pro‑inflammatory cytokine production in AGE‑BSA/high‑glucose‑stimulated C2C12 myotubes.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42682498"
+  },
+  {
+    "question": "Does weight loss achieved with GLP‑1 receptor agonists and other incretin‑based therapies lead to clinically significant loss of muscle strength, increased fall or fracture risk, or reduced quality of life?",
+    "reference_answer": "Current evidence shows that although some lean mass loss occurs, incretin therapies preferentially reduce fat, preserve muscle quality, and have not been associated with overt functional decline, falls, fractures, or impaired quality of life, though long‑term data are limited.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42722378"
+  },
+  {
+    "question": "Does acteoside protect retinal pigment epithelial cells from high‑glucose–induced ferroptosis and retinal injury via activation of the NRF2 signaling pathway?",
+    "reference_answer": "Yes, acteoside reverses high‑glucose–induced ferroptosis in ARPE‑19 cells and in a diabetic retinopathy mouse model by promoting NRF2 nuclear translocation, up‑regulating GPX4 and SLC7A11, reducing ROS and lipid peroxidation, and ameliorating retinal damage.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42714715"
+  },
+  {
+    "question": "What psychological, physical, and social challenges do adolescents with type 1 diabetes mellitus experience in their daily lives?",
+    "reference_answer": "Adolescents with T1DM report shared struggles that include psychological stress, physical discomfort, and social difficulties, all of which negatively impact their quality of life.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42683713"
+  },
+  {
+    "question": "What shared molecular mechanisms link type 2 diabetes mellitus and Alzheimer’s disease, and how might antidiabetic therapies target these pathways?",
+    "reference_answer": "The review identifies common pathways such as insulin resistance‑mediated PI3K/Akt inhibition, GSK‑3β activation, tau hyperphosphorylation, amyloid‑β accumulation, chronic neuroinflammation via the NLRP3 inflammasome, oxidative stress, mitochondrial dysfunction, O‑GlcNAcylation, and gut‑brain axis dysregulation, and suggests that GLP‑1 agonists, SGLT‑2 inhibitors and thiazolidinediones could mitigate AD pathology by modulating these shared mechanisms.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42693696"
+  },
+  {
+    "question": "Does diabetes mellitus increase the risk of urinary tract infections and how does hyperglycemia affect their severity and recurrence?",
+    "reference_answer": "Diabetes mellitus is associated with a two‑to‑four‑fold higher risk of UTIs, with hyperglycemia and glucosuria promoting bacterial growth, impairing immune defenses, and contributing to more severe and recurrent infections.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42676592"
+  },
+  {
+    "question": "How have the prevalence of obesity and chronic lung disease among adults newly diagnosed with diabetes changed between 1999 and 2023?",
+    "reference_answer": "Obesity prevalence rose from 58.3 % (1999‑2006) to 71.0 % (2015‑2023), and chronic lung disease prevalence increased from 15.4 % to 22.8 % over the same period.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42660201"
+  },
+  {
+    "question": "Does somatostatin confer insulinostatic effects of neuromedin u in the rat pancreas?",
+    "reference_answer": "Neuromedin U reduces insulin and increases somatostatin secretion. Blockade of somatostatin action abolishes the inhibition of insulin secretion by NmU. The results of the study suggest that somatostatin mediates the inhibitory action of NmU on insulin secretion.",
+    "source_dataset": "pubmed_qa_external"
+  },
+  {
+    "question": "What is the role of peripheral GABA signaling in the development and progression of obesity and type 2 diabetes mellitus?",
+    "reference_answer": "Peripheral GABA signaling shifts from adaptive regulation in healthy tissues to maladaptive contributions that exacerbate islet dysfunction, hepatic dysregulation, and adipose‑immune‑microbiota interactions during obesity and type 2 diabetes, with its effect depending on GABA source, tissue environment, and disease stage.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42653146"
+  },
+  {
+    "question": "Best test for fetal maturity in a diabetic mother is :",
+    "reference_answer": "Phosphatidyl glycerol",
+    "source_dataset": "medmcqa_external"
+  },
+  {
+    "question": "A patient with hypeension and diabetes presents with blurred vision. Fluorescein angiography shows",
+    "reference_answer": "Macular edema",
+    "source_dataset": "medmcqa_external"
+  },
+  {
+    "question": "What risk factors are independently associated with poor long‑term visual prognosis after vitrectomy in patients with proliferative diabetic retinopathy, and which machine‑learning model best predicts this outcome?",
+    "reference_answer": "Renal insufficiency, preoperative iris neovascularization, silicone oil tamponade and indirect bilirubin are independent predictors of poor long‑term visual outcome, and the LightGBM algorithm provides the best predictive performance.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42706727"
+  },
+  {
+    "question": "Can serum fibroblast growth factor 21 levels measured during pregnancy predict postpartum insulin resistance in women with gestational diabetes mellitus?",
+    "reference_answer": "Yes—FGF‑21 concentrations at 26 weeks (T1) predicted postpartum insulin resistance with an AUC of 0.871, indicating that higher early‑pregnancy FGF‑21 is associated with increased risk of postpartum insulin resistance.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42669966"
+  },
+  {
+    "question": "What clinical diagnosis best explains Louis XIV's rapidly progressive terminal illness described in the abstract?",
+    "reference_answer": "The abstract concludes that necrotizing soft‑tissue infection most plausibly accounts for Louis XIV's symptoms, rather than primary calciphylaxis.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42687157"
+  },
+  {
+    "question": "Does a prolonged menstrual cycle increase the risk of gestational diabetes mellitus or gestational hypertension in women without PCOS who undergo frozen embryo transfer?",
+    "reference_answer": "Yes—women with cycles of 36 days or longer had significantly higher odds of GDM (aOR 1.54) and gestational hypertension (aOR 1.60) compared with those having 28–31‑day cycles.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42693441"
+  },
+  {
+    "question": "Among patients taking SGLT2 inhibitors, which drug shows the strongest association with Fournier gangrene and is male gender a significant risk factor?",
+    "reference_answer": "Empagliflozin has the strongest association (reporting odds ratio = 78.62) with Fournier gangrene, and male patients, especially those on tofogliflozin, show a significantly higher risk.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42714203"
+  },
+  {
+    "question": "Low insulin to glucagon ratio is seen in all of these except:",
+    "reference_answer": "Glycogen synthesis",
+    "source_dataset": "medmcqa_external"
+  },
+  {
+    "question": "Does digital self‑management education for adults with type 2 diabetes reduce long‑term outcomes such as mortality, complications, hospitalisation, severe hypoglycaemia, and improve quality of life and glycaemic control beyond 12 months?",
+    "reference_answer": "A systematic review of RCTs with at least 12 months follow‑up will determine whether digital self‑management interventions improve long‑term clinical outcomes—including mortality, complications, hospitalisations, severe hypoglycaemia, quality of life, and glycated haemoglobin—in adults with type 2 diabetes.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42731839"
+  },
+  {
+    "question": "What distinct phenotypic subtypes of pre‑diabetes can be identified among rural adolescent girls in India, and how does a lean pre‑diabetic phenotype compare to other subtypes in terms of anthropometric and insulin‑related characteristics?",
+    "reference_answer": "The study identified five clusters of pre‑diabetes (young lean, old lean, low‑BMI high waist, normal‑BMI low waist, and obese). A distinct lean pre‑diabetic phenotype (low BMI, no central obesity, lowest fasting insulin, HOMA‑IR, and HOMA‑β) was found, differing markedly from other subtypes.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42710937"
+  },
+  {
+    "question": "Which clinical, demographic, neuropsychological, laboratory, and neuroimaging factors predict progression of vascular mild cognitive impairment in patients with atrial fibrillation over 36 months?",
+    "reference_answer": "In AF patients with vascular MCI, progression to MCI at 36 months was predicted by an ischemic stroke 3–6 months prior, ≥5 lacunar infarctions, grade II or higher hypertension, type 2 diabetes, CRP > 5 mg/L, MoCA memory scores <15, and HADS‑A scores ≤11.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42676202"
+  },
+  {
+    "question": "Did the hierarchical management strategy implemented during the COVID‑19 pandemic allow essential diabetic foot care to continue without increasing COVID‑19 infection rates among these patients?",
+    "reference_answer": "Yes; in this cohort of 12 patients, none acquired laboratory‑confirmed COVID‑19 during hospitalization or follow‑up while the hierarchical approach maintained care.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42631604"
+  },
+  {
+    "question": "How does the presence of type 2 diabetes and hypertension affect the proteomic recovery and mortality risk in critically ill COVID‑19 patients compared to those without these comorbidities?",
+    "reference_answer": "Patients with T2D and hypertension show impaired restoration of liver‑derived metabolic proteins and altered lipid metabolism during ICU recovery, which is associated with higher mortality compared to non‑comorbid COVID‑19 patients.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42695888"
+  },
+  {
+    "question": "In patients with type 2 diabetes, does once‑weekly insulin icodec reduce HbA1c more effectively than insulin efsitora?",
+    "reference_answer": "Yes – insulin icodec lowered HbA1c more than insulin efsitora, but this benefit was offset by a higher incidence of level 1 hypoglycaemia.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42666211"
+  },
+  {
+    "question": "Does tirzepatide improve appetite, weight, and glycemic control in a patient with Prader‑Willi syndrome‑associated refractory type 2 diabetes?",
+    "reference_answer": "In this case, switching to tirzepatide resulted in marked appetite suppression, weight loss, and better glycemic control compared with previous multi‑drug therapy.",
+    "source_dataset": "own_corpus",
+    "source_pmid": "42700085"
+  },
+  {
+    "question": "Does aerobic fitness influence microvascular function in healthy adults at risk of developing Type 2 diabetes?",
+    "reference_answer": "In this 'at-risk' group with skin microvascular dysfunction maximal oxygen uptake was not reduced compared with healthy controls. However, in the 'at-risk' group alone, individuals with higher levels of aerobic fitness also had better microvascular and endothelial responsiveness.",
+    "source_dataset": "pubmed_qa_external"
+  },
+  {
+    "question": "Profiling quality of care: Is there a role for peer review?",
+    "reference_answer": "For conditions with a well-developed quality of care evidence base, such as hypertension and diabetes, a single structured implicit review to assess the quality of care over a period of time is moderately reliable. This method could be a reasonable complement or alternative to explicit indicator approaches for assessing and comparing quality of care. Structured implicit review, like explicit quality measures, must be used more cautiously for illnesses for which the evidence base is less well developed, such as COPD and acute, short-course illnesses.",
+    "source_dataset": "pubmed_qa_external"
+  }
+]

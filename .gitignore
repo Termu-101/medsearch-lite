@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Generated data (regenerable, not tracked)
+data/raw/
+data/indexes/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
